@@ -254,7 +254,7 @@ iframe {
 aside {
     background-color: #f8f7f7f3;
     width: 25vw;
-    min-width: 500px;
+    min-width: 400px;
     padding-right: 2vw;
     order: 2;
     display: flex;
