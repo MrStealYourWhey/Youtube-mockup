@@ -108,7 +108,7 @@ main {
 
 .container {
     background-color: #f8f7f7f3;
-    width: 65vw;
+    width: 60vw;
     min-width: 700px;
     padding-right: 2vw;
     order: 0;
@@ -254,7 +254,7 @@ iframe {
 aside {
     background-color: #f8f7f7f3;
     width: 25vw;
-    min-width: 400px;
+    min-width: 350px;
     padding-right: 2vw;
     order: 2;
     display: flex;
